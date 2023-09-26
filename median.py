@@ -19,4 +19,4 @@ else:
     middle2 = numbers[int((len(numbers) / 2) - 1)]
     median = (middle1 + middle2) / 2
 
-print(f"{median} is the median")
+print(median)
